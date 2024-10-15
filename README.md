@@ -23,6 +23,7 @@ The objective for this proejct is to retrieve a list of movies giving a given qu
 - Natural Language Processing (NLP)
 - Web scraping
 - Neural network
+- RStudio
 
 
 More Information
